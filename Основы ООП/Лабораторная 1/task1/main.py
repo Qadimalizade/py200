@@ -43,7 +43,7 @@ class Exchange:
 
             Примеры:
             >>> day1 = Exchange(2000, 184740)
-            >>> day1.extra_money(5000000000000)
+            >>> day1.extra_money(50000000000000)
             """
         ...
 
